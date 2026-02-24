@@ -1,0 +1,37 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": ["JakeCCz"],
+		"product_type": "addon"
+	},
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"uuid": "ede965b6-7745-4a79-b83f-9f2489487279",
+		"version": [2, 1, 0],
+		"min_engine_version": [1, 20, 60]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "4e1743a8-36fd-44cd-b75d-a56d89244b92",
+			"version": [2, 1, 0]
+		},
+		{
+		  "uuid": "5e6d6ac9-a17d-4ab3-ad53-b68371500fc2",
+		  "type": "script",
+		  "entry": "scripts/main.js",
+		  "version": [2, 1, 0]
+		}
+	],
+	"dependencies": [
+		{
+		  "module_name": "@minecraft/server",
+		  "version": "1.16.0"
+		},
+		{
+			"module_name": "@minecraft/server-ui",
+			"version": "1.1.0"
+		}
+	]
+}

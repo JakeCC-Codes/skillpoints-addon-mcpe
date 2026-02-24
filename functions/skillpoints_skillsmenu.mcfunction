@@ -1,0 +1,1 @@
+scriptevent sKP:forced_skills

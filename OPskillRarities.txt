@@ -1,0 +1,23 @@
+White - Common
+Yellow - Uncommon
+Blue - Rare
+Purple - Epic
+
+[Common] Random Stick - 100% Chance (Quite literally is a random stick lol)
+[Common] Shield - 75% Chance
+[Common] Crossbow - 75% Chance
+[Uncommon] Diamond Sword - 65% Chance
+[Uncommon] Diamond Pickaxe - 65% Chance
+[Uncommon] Enchanted Book - 40% Chance (Any random enchantment applied)
+[Uncommon] Notch Apple - 40% Chance
+[Uncommon] Turtle Helmet - 35% Chance
+[Rare] Diamond Armour - 30% Chance
+[Epic] Mace - 20% Chance
+[Epic] Netherite Chestplate - 15% Chance
+[Epic] Totem of Undying - 15% Chance
+[Epic] Recovery Compass - 5% Chance
+
+
+=--------= SkillPoints by JakeCCz =------------=
+=----=(https://mcpedl.com/user/JakeCCz/)=------=
+=----=(https://www.patreon.com/c/JakeCCz/)=----=

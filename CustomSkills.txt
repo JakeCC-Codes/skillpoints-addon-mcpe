@@ -1,0 +1,31 @@
+Double Jump
+ - Jump while falling through the air to perform a double jump
+ - Amplifier: DoubleJump Count I -> DoubleJump Height I -> DoubleJump Count II -> DoubleJump Height II
+
+Ledge Grab
+ - Sneaking next to a wall allows for ledge grabbing
+ - Amplifier: Ledge Height I -> Ledge Height II
+
+Stealth
+ - Sneaking activates a temporary stealth mode
+ - Amplifier: Stealth I -> Stealth II
+
+Sneak Haste
+ - Sneaking grants a speed boost
+ - Amplifier: Sneak Speed I -> Sneak Speed II
+
+Venomous Touch
+ - Inflicts poison on attacked entities
+ - Amplifier: Poison -> Fatal Poison -> Wither I -> Wither II
+
+Cripple Touch
+ - Inflicts slowness on attacked entities
+ - Amplifier: Weakness I -> Slowness II -> Slowness III
+
+Healing Touch
+ - Inflicts regeneration on attacked entities, while sneaking
+ - Amplifier: Regeneration I -> `` -> Regeneration IV & Saturation I
+
+=--------= SkillPoints by JakeCCz =------------=
+=----=(https://mcpedl.com/user/JakeCCz/)=------=
+=----=(https://www.patreon.com/c/JakeCCz/)=----=

@@ -1,0 +1,46 @@
+Commands:
+/function skillpoints_config                                            - Calls '/scriptevent sKP:config @s'
+/function skillpoints_skillsmenu                                        - Calls '/scriptevent sKP:forced_skills @s'
+/function skillpoints_skillsmenuOP                                      - Calls '/scriptevent sKP:forced_OPskills @s'
+
+/scriptevent sKP:config [player: target]                                - Shows the Config GUI to specified player(s).
+/scriptevent sKP:forced_skills [player: target]                         - Shows the Skill Upgrade Menu to specified player(s).
+/scriptevent sKP:forced_OPskills [player: target]                       - Shows the OP Skill Upgrade Menu to specified player(s).
+/scriptevent sKP:add <skillID: id> [amplifier: int] [player: target]    - Adds a new skill to the specified player(s).
+/scriptevent sKP:remove <skillID: id> [player: target]                  - Removes a skill from the specified player(s).
+/scriptevent sKP:list [player: target]                                  - Displays the skills possessed by the specified player(s).
+
+Parameter Key:
+target [String] - Accepts the player's name or the various selector tags, such as, @p, @a, @r, @e and @n.
+id [String]     - Accepts string prompts written using the snake_case text format.
+int [Integer]   - Accepts whole numbers within the a recommended range of 0 and 255.
+
+Skill IDs:
+sKPCustom:d_jump          - Double Jump Skill
+sKPCustom:ledge_grab      - Ledge Grab Skill
+sKPCustom:stealth         - Stealth Skill
+sKPCustom:s_speed         - Sneak Haste Skill
+sKPCustom:poison          - Venomous Touch Skill
+sKPCustom:slowness        - Cripple Touch Skill
+sKPCustom:healing         - Healing Touch Skill
+
+strength                  - Strength Skill
+haste                     - Haste Skill
+resistance                - Resistance Skill
+speed                     - Speed Skill
+jump_boost                - Jump Boost Skill
+weaving                   - Weaving Skill
+regeneration              - Regeneration Skill
+fire_resistance           - Fire Resistance Skill
+saturation                - Saturation Skill
+water_breathing           - Water Breathing Skill
+night_vision              - Night Vision Skill
+health_boost              - Health Boost Skill
+slow_falling              - Slow Falling Skill
+village_hero              - Hero of the Village Skill
+oozing                    - Oozing Skill
+breath_of_the_nautilus    - Breath of the Nautilus Skill
+
+=--------= SkillPoints by JakeCCz =------------=
+=----=(https://mcpedl.com/user/JakeCCz/)=------=
+=----=(https://www.patreon.com/c/JakeCCz/)=----=
